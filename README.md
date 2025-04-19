@@ -168,4 +168,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## **Contact**
 
-Your Name: [LinkedIn](www.linkedin.com/in/hernani-silva-webdev) | [Email](hcsilvamatos5@gmail.com)
+Your Name: [LinkedIn](https://www.linkedin.com/in/hernani-silva-webdev) | [Email Me](mailto:hcsilvamatos5@gmail.com)
